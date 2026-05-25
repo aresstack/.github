@@ -1,0 +1,68 @@
+name: Bug report
+description: Report a reproducible bug in an aresstack library.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please provide enough detail for maintainers to reproduce and triage efficiently.
+  - type: input
+    id: library
+    attributes:
+      label: Library
+      description: Affected artifact or module name
+      placeholder: aresstack-example-lib
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Library version
+      description: Affected released version
+      placeholder: 1.2.3
+    validations:
+      required: true
+  - type: input
+    id: java_version
+    attributes:
+      label: Java version
+      placeholder: 17
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, runtime, build tool, and relevant dependency details
+      placeholder: |
+        OS: Ubuntu 24.04
+        Build tool: Maven 3.9.x
+        Runtime: Temurin 17
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Minimal reproducible steps
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Logs, stack traces, screenshots, or links

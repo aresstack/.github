@@ -28,7 +28,7 @@ body:
     id: java_version
     attributes:
       label: Java version
-      placeholder: 17
+      placeholder: 8
     validations:
       required: true
   - type: textarea
@@ -37,9 +37,9 @@ body:
       label: Environment
       description: OS, runtime, build tool, and relevant dependency details
       placeholder: |
-        OS: Ubuntu 24.04
+        OS: Windows 11 Enterprise
         Build tool: Maven 3.9.x
-        Runtime: Temurin 17
+        Runtime: Temurin 8
     validations:
       required: true
   - type: textarea

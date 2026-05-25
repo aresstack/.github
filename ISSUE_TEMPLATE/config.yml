@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability report
+    url: https://github.com/aresstack/.github/security/advisories/new
+    about: Report security issues privately through GitHub Security Advisories.
+  - name: General support
+    url: https://github.com/aresstack/.github/blob/main/SUPPORT.md
+    about: Review support guidance before opening issues.

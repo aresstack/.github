@@ -1,0 +1,49 @@
+name: Feature request
+description: Propose an enhancement for an aresstack library.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion. Please describe the request clearly and include compatibility considerations.
+  - type: input
+    id: library
+    attributes:
+      label: Target library
+      placeholder: aresstack-example-lib
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What problem are you trying to solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe your preferred approach
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Other approaches you evaluated
+  - type: checkboxes
+    id: compatibility
+    attributes:
+      label: Compatibility impact
+      options:
+        - label: This change is backward compatible
+        - label: This change may require migration notes
+        - label: This change may affect published Maven artifacts
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Use cases, API sketches, benchmarks, or references

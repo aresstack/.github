@@ -143,7 +143,7 @@ The task is to create systems with boundaries, intelligence with measure and inf
 </td>
 <td width="58%">
 
-## III. Leverage
+## III. Stewardship
 
 What emerges is not a fantasy of domination.
 
@@ -162,18 +162,25 @@ It is about creating more possibility from what is already here.
 A good system should be simple enough to understand.
 Clear enough to trust.
 Useful enough to reduce pressure.
-Generous enough to leave something behind.
+Humble enough to know its boundary.
+Generous enough to leave room at the margins.
+
+It should repair more than it extracts.
+It should return capacity to the people who work with it.
+It should leave a rhythm of rest, renewal and responsibility behind.
 
 More usefulness from existing systems.  
 More resilience from clear architecture.  
 More speed without losing seriousness.  
-More intelligence without surrendering judgement.
+More intelligence without losing judgement.  
+More abundance without exhausting its foundation.
 
 This is the AresStack direction:
 
 **not spectacle, but engineering;  
 not expansion, but renewal;  
-not blind automation, but measured intelligence.**
+not blind automation, but measured intelligence;  
+not extraction, but stewardship.**
 
 </td>
 </tr>

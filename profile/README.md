@@ -1,12 +1,12 @@
 <h1 align="center">AresStack</h1>
 
 <p align="center">
-  <strong>Efficiency is the new frontier.</strong><br>
+  <strong>Efficiency with measure.</strong><br>
   German engineering, reimagined for the AI era.
 </p>
 
 <p align="center">
-  <em>Technē. Logos. Measure. Leverage.</em>
+  <em>Technē. Logos. Measure. Renewal.</em>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 AresStack is shaped by a simple idea:
 
 Powerful technology does not become useful through force alone.
-It becomes useful when ambition meets architecture.
+It becomes useful when ambition meets architecture — and when architecture learns restraint.
 
 There is a reason why enterprise systems value structure, boundaries and reliability.
 Uncertainty is expensive.
@@ -24,6 +24,12 @@ Scarcity makes every wasted hour, every hidden document and every disconnected w
 The old reflex was to answer uncertainty with more control.
 The better answer is to build systems that make control less desperate.
 
+Not efficiency as pressure.
+Not efficiency at any price.
+
+Efficiency as a clear cycle:
+less waste, better use, renewed capacity.
+
 The Greeks had useful words for this work:
 
 **Technē** — craft, not spectacle.  
@@ -31,12 +37,18 @@ The Greeks had useful words for this work:
 **Phronēsis** — practical judgement, not blind automation.  
 **Sōphrosynē** — measure, not excess.
 
+And behind the Stoic idea of living according to nature lies another important direction:
+what is well-ordered should not consume its surroundings.
+It should fit into them.
+It should give back room, clarity and strength.
+
 Ares gives the name a hard edge.
 Architecture gives it direction.
+Measure keeps it human.
 
 The symbol may look martial.
 The direction is constructive:
-engineering discipline turned toward efficiency, security and useful intelligence.
+engineering discipline turned toward security, useful intelligence and a form of efficiency that can renew instead of exhaust.
 
 ---
 
@@ -89,12 +101,20 @@ More force applied to the outside world.
 That impulse is understandable.
 But it is not enough.
 
-The better answer is efficiency.
+The better answer is not harsher efficiency.
+Markets already know how to turn pressure into output.
+That is not the new frontier.
+
+The better answer is measured efficiency:
+systems that fit their environment, reduce waste and create a cycle that can renew itself.
 
 More capability from existing systems.  
 More knowledge from existing data.  
 More time from better tools.  
 More clarity from connected information.
+
+Not by consuming the surroundings.
+By making better use of what is already there.
 
 AresStack stands for that redirection.
 
@@ -105,7 +125,7 @@ Take the engineering seriousness.
 Leave behind the obsession.
 
 The task is not to control everything.
-The task is to create systems with boundaries, intelligence with measure and infrastructure that people can trust.
+The task is to create systems with boundaries, intelligence with measure and infrastructure that people can understand, trust and sustain.
 
 </td>
 <td width="42%">
@@ -139,6 +159,11 @@ It is no longer about taking more space.
 
 It is about creating more possibility from what is already here.
 
+A good system should be simple enough to understand.
+Clear enough to trust.
+Useful enough to reduce pressure.
+Generous enough to leave something behind.
+
 More usefulness from existing systems.  
 More resilience from clear architecture.  
 More speed without losing seriousness.  
@@ -147,7 +172,7 @@ More intelligence without surrendering judgement.
 This is the AresStack direction:
 
 **not spectacle, but engineering;  
-not expansion, but efficiency;  
+not expansion, but renewal;  
 not blind automation, but measured intelligence.**
 
 </td>
@@ -157,5 +182,5 @@ not blind automation, but measured intelligence.**
 ---
 
 <p align="center">
-  <strong>Strong enough to matter. Measured enough to trust.</strong>
+  <strong>Strong enough to matter. Measured enough to endure.</strong>
 </p>

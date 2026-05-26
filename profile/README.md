@@ -52,12 +52,9 @@ engineering discipline turned toward security, useful intelligence and a form of
 
 ---
 
-<table>
-<tr>
-<td width="42%">
-<img src="assets/act-1-scarcity.svg" alt="Abstract visual for scarcity, pressure and the old impulse to create order" width="100%">
-</td>
-<td width="58%">
+<p align="center">
+  <img src="assets/act-1-scarcity.svg" alt="Abstract visual for scarcity, pressure and the old impulse to create order" width="100%">
+</p>
 
 ## I. Scarcity
 
@@ -79,15 +76,11 @@ But every powerful lever raises the same question:
 
 **What is it pointed at?**
 
-</td>
-</tr>
-</table>
-
 ---
 
-<table>
-<tr>
-<td width="58%">
+<p align="center">
+  <img src="assets/act-2-redirection.svg" alt="Abstract visual for sublimation and redirection of powerful engineering energy" width="100%">
+</p>
 
 ## II. Redirection
 
@@ -127,21 +120,11 @@ Leave behind the obsession.
 The task is not to control everything.
 The task is to create systems with boundaries, intelligence with measure and infrastructure that people can understand, trust and sustain.
 
-</td>
-<td width="42%">
-<img src="assets/act-2-redirection.svg" alt="Abstract visual for sublimation and redirection of powerful engineering energy" width="100%">
-</td>
-</tr>
-</table>
-
 ---
 
-<table>
-<tr>
-<td width="42%">
-<img src="assets/act-3-leverage.svg" alt="Abstract visual for efficiency, leverage and a new technological horizon" width="100%">
-</td>
-<td width="58%">
+<p align="center">
+  <img src="assets/act-3-leverage.svg" alt="Abstract visual for efficiency, leverage and a new technological horizon" width="100%">
+</p>
 
 ## III. Stewardship
 
@@ -181,10 +164,6 @@ This is the AresStack direction:
 not expansion, but renewal;  
 not blind automation, but measured intelligence;  
 not extraction, but stewardship.**
-
-</td>
-</tr>
-</table>
 
 ---
 
